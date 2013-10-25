@@ -1,0 +1,31 @@
+{
+  "name": "twilson63.github.io",
+  "version": "0.0.0",
+  "authors": [
+    "Tom Wilson <tom@jackhq.com>"
+  ],
+  "description": "A home site for twilson63",
+  "main": "index.html",
+  "keywords": [
+    "Software",
+    "Developer",
+    "JavaScript",
+    "NodeJS",
+    "AngularJS",
+    "CouchDB",
+    "LevelUp",
+    "LevelGraph"
+  ],
+  "license": "MIT",
+  "homepage": "http://twilson63.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "topcoat": "~0.8.0"
+  }
+}
